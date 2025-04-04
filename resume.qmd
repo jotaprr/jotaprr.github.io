@@ -23,9 +23,9 @@ Brigham Young University - Idaho
 
 _Micron Technology_
 
-• Increased data analysis productivity by 75% by introducing an analytical model in Excel with external data connections to Power BI and Visier, to identify trends in key people metrics (turnover, demographics, compa ratio, etc.).
-• Implemented 5+ comprehensive visuals and dashboards in Visier and ad hoc reporting using Workday, Power BI, and Excel to support Business Partners' strategic decision-making.
-• Synthesized 3+ qualitative and quantitative data from eSat surveys in Glint into compelling slide decks, facilitating leadership decisions on employee engagement and resource allocation.
+• Increased data analysis productivity by 75% by introducing an analytical model in Excel with external data connections to Power BI and Visier, to identify trends in key people metrics (turnover, demographics, compa ratio, etc.).\
+• Implemented 5+ comprehensive visuals and dashboards in Visier and ad hoc reporting using Workday, Power BI, and Excel to support Business Partners' strategic decision-making.\
+• Synthesized 3+ qualitative and quantitative data from eSat surveys in Glint into compelling slide decks, facilitating leadership decisions on employee engagement and resource allocation.\
 • Developed and implemented an Excel automation template for swift and precise generation of compliance data reports, facilitating Business Partners in addressing non-compliance issues effectively.
 
 
@@ -33,14 +33,10 @@ _Micron Technology_
 
 _Brigham Young University-Idaho_
 
-• Administered HR-related data operations and workflows for the BYU-Idaho HCM system (Workday) with over 4,000 users.
-
-• Minimized recurring recruiting business process errors by 80% by implementing cloud-based documentation, improving work process efficiency.
-
-• Reduced the recruiting offer process time from 3 days to 1-2 days by enhancing the Recruiting business flow, and implementing step condition configurations to the Business System.
-
-• Facilitated in mitigating HR system issues by collaborating with other users inside and outside of HR (Recruiting, Payroll, Benefits, IT, etc.).
-
+• Administered HR-related data operations and workflows for the BYU-Idaho HCM system (Workday) with over 4,000 users.\
+• Minimized recurring recruiting business process errors by 80% by implementing cloud-based documentation, improving work process efficiency.\
+• Reduced the recruiting offer process time from 3 days to 1-2 days by enhancing the Recruiting business flow, and implementing step condition configurations to the Business System.\
+• Facilitated in mitigating HR system issues by collaborating with other users inside and outside of HR (Recruiting, Payroll, Benefits, IT, etc.).\
 • Conducted in-depth analysis and refinement of over 100 internal HR reports, operational guidelines, and training protocols.
 
 
@@ -48,12 +44,9 @@ _Brigham Young University-Idaho_
 
 _Brigham Young University-Idaho_
 
-• Implemented data validation processes to ensure data integrity and operational efficiency.
-
-• Reduced error resolution time by 60% increasing data integrity by implementing a data validation process for early identification of data anomalies.
-
-• Achieved a 50% reduction in time required for semester course scheduling audits through adept use of Power BI, enhancing academic registration efficiency.
-
+• Implemented data validation processes to ensure data integrity and operational efficiency.\
+• Reduced error resolution time by 60% increasing data integrity by implementing a data validation process for early identification of data anomalies.\
+• Achieved a 50% reduction in time required for semester course scheduling audits through adept use of Power BI, enhancing academic registration efficiency.\
 • Implemented 3+ interactive dashboards that met the department's evolving needs and requirements by actively engaging with stakeholders to gather feedback and iterate on visualizations.
 
 
@@ -61,12 +54,9 @@ _Brigham Young University-Idaho_
 
 _SEBRAE (Micro and Small Business Support Service)_
 
-• Improved the efficiency of the monthly financial report analysis process from 3 days to 2 days by creating and utilizing dashboards
-in Excel.
-
-• Decreased the number of payment requests on hold by 30% by implementing efficient scheduling and planning tools.
-
-• Worked on monthly expense audit processes and financial documentation.
+• Improved the efficiency of the monthly financial report analysis process from 3 days to 2 days by creating and utilizing dashboards in Excel.\
+• Decreased the number of payment requests on hold by 30% by implementing efficient scheduling and planning tools.\
+• Worked on monthly expense audit processes and financial documentation.\
 • Reduced expense audit process from 2 days to 1 day by effectively implementing organization methods.
 
 ### LEADERSHIP EXPERIENCE
@@ -82,8 +72,7 @@ _Brigham Young University - Idaho_
 
 _The Church of Jesus Christ of Latter-day Saints_ (Fukuoka, Japan)
 
-• Increased work efficiency by organizing financial and logistical aspects of the organization to supply and allocate 75+ volunteers.
-
+• Increased work efficiency by organizing financial and logistical aspects of the organization to supply and allocate 75+ volunteers.\
 • Introduced new training concepts and principles by planning and writing a new and updated guide to help new assistants and volunteers.
 
 

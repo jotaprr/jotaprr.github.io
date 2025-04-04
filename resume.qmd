@@ -1,87 +1,68 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Joao Cruz's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Joao Cruz
+HRIS Analyst
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="joaopedro_rr@outlook.com">joaopedro_rr@outlook.com</a>
+| <a href="http:www.linkedin.com/in/joao-cruz537/">My LinkedIn page</a>
 </div>
 
 
-## Currently
+## EDUCATION
 
-Standing on the shoulders of giants
+Bachelor of Science in Business Analytics | Anticipated April 2026
+Brigham Young University - Idaho
 
-### Specialized in
+## PROFESSIONAL EXPERIENCE
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+_Global Business and People Analyst Intern_ | 05/2024 – 08/2024
+**Micron Technology**
 
+• Increased data analysis productivity by 75% by introducing an analytical model in Excel with external data connections to Power BI and Visier, to identify trends in key people metrics (turnover, demographics, compa ratio, etc.).
+• Implemented 5+ comprehensive visuals and dashboards in Visier and ad hoc reporting using Workday, Power BI, and Excel to support Business Partners' strategic decision-making.
+• Synthesized 3+ qualitative and quantitative data from eSat surveys in Glint into compelling slide decks, facilitating leadership decisions on employee engagement and resource allocation.
+• Developed and implemented an Excel automation template for swift and precise generation of compliance data reports, facilitating Business Partners in addressing non-compliance issues effectively.
 
-### Research interests
+_HRIS Analyst_ | 06/2022 – present
+**Brigham Young University-Idaho**
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+• Administered HR-related data operations and workflows for the BYU-Idaho HCM system (Workday) with over 4,000 users.
+• Minimized recurring recruiting business process errors by 80% by implementing cloud-based documentation, improving work
+process efficiency.
+• Reduced the recruiting offer process time from 3 days to 1-2 days by enhancing the Recruiting business flow, and implementing step condition configurations to the Business System.
+• Facilitated in mitigating HR system issues by collaborating with other users inside and outside of HR (Recruiting, Payroll, Benefits, IT, etc.).
+• Conducted in-depth analysis and refinement of over 100 internal HR reports, operational guidelines, and training protocols.
 
+_Data Visualization Specialist_ | 04/2023 – 12/2023
+**Brigham Young University-Idaho**
 
-## Education
+• Implemented data validation processes to ensure data integrity and operational efficiency.
+• Reduced error resolution time by 60% increasing data integrity by implementing a data validation process for early identification of data anomalies.
+• Achieved a 50% reduction in time required for semester course scheduling audits through adept use of Power BI, enhancing academic registration efficiency.
+• Implemented 3+ interactive dashboards that met the department's evolving needs and requirements by actively engaging with stakeholders to gather feedback and iterate on visualizations.
 
-`1654-1660`
-__The King's School, Grantham.__
+_Treasury Assistant Intern_ | 12/2021 – 03/2022
+**SEBRAE (Micro and Small Business Support Service)**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+• Improved the efficiency of the monthly financial report analysis process from 3 days to 2 days by creating and utilizing dashboards
+in Excel.
+• Decreased the number of payment requests on hold by 30% by implementing efficient scheduling and planning tools.
+• Worked on monthly expense audit processes and financial documentation.
+• Reduced expense audit process from 2 days to 1 day by effectively implementing organization methods.
 
-- Sizar
+### LEADERSHIP EXPERIENCE
 
-`1667 - death`
-__Trinity College, Cambridge__
+_Student Leadership Council_ | 09/2023 – 12/2023
+**Brigham Young University - Idaho**
+• Participated in the Mental Wellness Committee, planning and designing a student mentorship program proposal to engage students with mental health issues in recreational activities on campus.
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+_Financial Assistant and Recorder (Full-time Volunteer)_ | 04/2020 – 02/2021
+**The Church of Jesus Christ of Latter-day Saints** (Fukuoka, Japan)
+• Increased work efficiency by organizing financial and logistical aspects of the organization to supply and allocate 75+ volunteers.
+• Introduced new training concepts and principles by planning and writing a new and updated guide to help new assistants and volunteers.
 
 
 <!-- ### Footer

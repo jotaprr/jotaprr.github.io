@@ -14,54 +14,76 @@ HRIS Analyst
 ## EDUCATION
 
 Bachelor of Science in Business Analytics | Anticipated April 2026
+
 Brigham Young University - Idaho
 
 ## PROFESSIONAL EXPERIENCE
 
-_Global Business and People Analyst Intern_ | 05/2024 – 08/2024
-**Micron Technology**
+**Global Business and People Analyst Intern** | 05/2024 – 08/2024
+
+_Micron Technology_
 
 • Increased data analysis productivity by 75% by introducing an analytical model in Excel with external data connections to Power BI and Visier, to identify trends in key people metrics (turnover, demographics, compa ratio, etc.).
 • Implemented 5+ comprehensive visuals and dashboards in Visier and ad hoc reporting using Workday, Power BI, and Excel to support Business Partners' strategic decision-making.
 • Synthesized 3+ qualitative and quantitative data from eSat surveys in Glint into compelling slide decks, facilitating leadership decisions on employee engagement and resource allocation.
 • Developed and implemented an Excel automation template for swift and precise generation of compliance data reports, facilitating Business Partners in addressing non-compliance issues effectively.
 
-_HRIS Analyst_ | 06/2022 – present
-**Brigham Young University-Idaho**
+
+**HRIS Analyst** | 06/2022 – present
+
+_Brigham Young University-Idaho_
 
 • Administered HR-related data operations and workflows for the BYU-Idaho HCM system (Workday) with over 4,000 users.
-• Minimized recurring recruiting business process errors by 80% by implementing cloud-based documentation, improving work
-process efficiency.
+
+• Minimized recurring recruiting business process errors by 80% by implementing cloud-based documentation, improving work process efficiency.
+
 • Reduced the recruiting offer process time from 3 days to 1-2 days by enhancing the Recruiting business flow, and implementing step condition configurations to the Business System.
+
 • Facilitated in mitigating HR system issues by collaborating with other users inside and outside of HR (Recruiting, Payroll, Benefits, IT, etc.).
+
 • Conducted in-depth analysis and refinement of over 100 internal HR reports, operational guidelines, and training protocols.
 
-_Data Visualization Specialist_ | 04/2023 – 12/2023
-**Brigham Young University-Idaho**
+
+**Data Visualization Specialist** | 04/2023 – 12/2023
+
+_Brigham Young University-Idaho_
 
 • Implemented data validation processes to ensure data integrity and operational efficiency.
+
 • Reduced error resolution time by 60% increasing data integrity by implementing a data validation process for early identification of data anomalies.
+
 • Achieved a 50% reduction in time required for semester course scheduling audits through adept use of Power BI, enhancing academic registration efficiency.
+
 • Implemented 3+ interactive dashboards that met the department's evolving needs and requirements by actively engaging with stakeholders to gather feedback and iterate on visualizations.
 
-_Treasury Assistant Intern_ | 12/2021 – 03/2022
-**SEBRAE (Micro and Small Business Support Service)**
+
+**Treasury Assistant Intern** | 12/2021 – 03/2022
+
+_SEBRAE (Micro and Small Business Support Service)_
 
 • Improved the efficiency of the monthly financial report analysis process from 3 days to 2 days by creating and utilizing dashboards
 in Excel.
+
 • Decreased the number of payment requests on hold by 30% by implementing efficient scheduling and planning tools.
+
 • Worked on monthly expense audit processes and financial documentation.
 • Reduced expense audit process from 2 days to 1 day by effectively implementing organization methods.
 
 ### LEADERSHIP EXPERIENCE
 
-_Student Leadership Council_ | 09/2023 – 12/2023
-**Brigham Young University - Idaho**
+**Student Leadership Council** | 09/2023 – 12/2023
+
+_Brigham Young University - Idaho_
+
 • Participated in the Mental Wellness Committee, planning and designing a student mentorship program proposal to engage students with mental health issues in recreational activities on campus.
 
-_Financial Assistant and Recorder (Full-time Volunteer)_ | 04/2020 – 02/2021
-**The Church of Jesus Christ of Latter-day Saints** (Fukuoka, Japan)
+
+**Financial Assistant and Recorder (Full-time Volunteer)** | 04/2020 – 02/2021
+
+_The Church of Jesus Christ of Latter-day Saints_ (Fukuoka, Japan)
+
 • Increased work efficiency by organizing financial and logistical aspects of the organization to supply and allocate 75+ volunteers.
+
 • Introduced new training concepts and principles by planning and writing a new and updated guide to help new assistants and volunteers.
 
 

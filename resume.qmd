@@ -13,14 +13,12 @@ HRIS Analyst
 
 ## EDUCATION
 
-Bachelor of Science in Business Analytics | Anticipated April 2026
-
+Bachelor of Science in Business Analytics | Anticipated April 2026\
 Brigham Young University - Idaho
 
 ## PROFESSIONAL EXPERIENCE
 
-**Global Business and People Analyst Intern** | 05/2024 – 08/2024
-
+**Global Business and People Analyst Intern** | 05/2024 – 08/2024\
 _Micron Technology_
 
 • Increased data analysis productivity by 75% by introducing an analytical model in Excel with external data connections to Power BI and Visier, to identify trends in key people metrics (turnover, demographics, compa ratio, etc.).\
@@ -29,8 +27,7 @@ _Micron Technology_
 • Developed and implemented an Excel automation template for swift and precise generation of compliance data reports, facilitating Business Partners in addressing non-compliance issues effectively.
 
 
-**HRIS Analyst** | 06/2022 – present
-
+**HRIS Analyst** | 06/2022 – present\
 _Brigham Young University-Idaho_
 
 • Administered HR-related data operations and workflows for the BYU-Idaho HCM system (Workday) with over 4,000 users.\
@@ -40,8 +37,7 @@ _Brigham Young University-Idaho_
 • Conducted in-depth analysis and refinement of over 100 internal HR reports, operational guidelines, and training protocols.
 
 
-**Data Visualization Specialist** | 04/2023 – 12/2023
-
+**Data Visualization Specialist** | 04/2023 – 12/2023\
 _Brigham Young University-Idaho_
 
 • Implemented data validation processes to ensure data integrity and operational efficiency.\
@@ -50,8 +46,7 @@ _Brigham Young University-Idaho_
 • Implemented 3+ interactive dashboards that met the department's evolving needs and requirements by actively engaging with stakeholders to gather feedback and iterate on visualizations.
 
 
-**Treasury Assistant Intern** | 12/2021 – 03/2022
-
+**Treasury Assistant Intern** | 12/2021 – 03/2022\
 _SEBRAE (Micro and Small Business Support Service)_
 
 • Improved the efficiency of the monthly financial report analysis process from 3 days to 2 days by creating and utilizing dashboards in Excel.\
@@ -61,15 +56,13 @@ _SEBRAE (Micro and Small Business Support Service)_
 
 ### LEADERSHIP EXPERIENCE
 
-**Student Leadership Council** | 09/2023 – 12/2023
-
+**Student Leadership Council** | 09/2023 – 12/2023\
 _Brigham Young University - Idaho_
 
 • Participated in the Mental Wellness Committee, planning and designing a student mentorship program proposal to engage students with mental health issues in recreational activities on campus.
 
 
-**Financial Assistant and Recorder (Full-time Volunteer)** | 04/2020 – 02/2021
-
+**Financial Assistant and Recorder (Full-time Volunteer)** | 04/2020 – 02/2021\
 _The Church of Jesus Christ of Latter-day Saints_ (Fukuoka, Japan)
 
 • Increased work efficiency by organizing financial and logistical aspects of the organization to supply and allocate 75+ volunteers.\
